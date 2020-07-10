@@ -1,4 +1,14 @@
-### Hi there 👋
+
+
+ ____
+ Hi there 👋 
+ ----
+        \   ^__^
+         \  (oo)\_______
+            (__)\       )\/\
+                ||----w |
+                ||     ||
+
 
 <!--
 **seno-ark/seno-ark** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
